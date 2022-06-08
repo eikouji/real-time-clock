@@ -17,3 +17,4 @@ For this project I used an image compressor site to condense the image to a smal
 
 
 # URL of app #
+https://eikouji.github.io/real-time-clock/
