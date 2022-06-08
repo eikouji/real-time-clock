@@ -6,8 +6,8 @@ A simple app that tells the current time using the 12 hr, AM PM system.
 # This app uses #
 HTML CSS JavaScript
 
-# Image by #
-Yours truly! An digital painting I did in ProCreate with an iPad 7.
+# Background Image by #
+Yours truly! This is a digital painting I did in ProCreate with an iPad 7.
 For this project I used an image compressor site to condense the image to a smaller file. 
 
 # Screencap of working app #
